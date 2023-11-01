@@ -1,0 +1,38 @@
+/*Задание 1*/
+[titel]{
+    color: orange;
+}
+
+/*Задание 2*/
+p [titel]{
+    color: orange;
+}
+
+/*Задание 3*/
+p [titel=привет]{
+    color: orange;
+}
+
+
+/*Задание 4*/
+a[href^="http://"]{
+    color: orange;
+}
+
+/*Задание 5*/
+a[href$=".html"]{
+    color: orange;
+}
+
+
+/*Задание 6*/
+p[title*="привет"]{
+    color: orange;
+}
+
+
+/*Задание 7*/
+p[class^="top-"] {
+    color: orange;
+  }
+  

@@ -1,0 +1,42 @@
+#task1{
+    width: 300px;
+    height: 300px;
+    border: 2px solid orange;
+    background-image: url(jake.jpg);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 300px 300px;
+
+}
+
+#task2{
+    width: 1000px;
+    height: 1300px;
+    border: 2px solid orange;
+    background-image: url(bender.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 1000px 1300px;
+    background-attachment: fixed;
+    
+
+}
+#task2 p{
+    width: 400px;
+	margin: 0 auto;
+	text-align: justify;
+	font-weight: bold;
+	font-size: 20px;
+    color: black;
+
+}
+
+#task3{
+    background-clip: border-box;
+	background-color: purple;
+	background-repeat: no-repeat;
+	border: 10px dashed black;
+	padding: 30px;
+	width: 250px;
+	height: 150px;
+}

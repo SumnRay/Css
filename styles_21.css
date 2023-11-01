@@ -1,0 +1,27 @@
+h1 {
+    
+    text-indent: 50px;
+    text-align: justify;
+     color:blue;
+     
+}
+h2 {
+    text-indent: 100px;
+    text-align: justify;
+    color:green;
+    font: normal 22.5px "Times New Roman";
+}
+p {
+  text-indent: 40px;
+   width: 500px; 
+   font-family: "Arial";
+   text-align: justify;
+}
+li {
+font-family: "Times New Roman";
+width: 400px;
+text-align: justify;
+}
+i {
+    color:green;
+}

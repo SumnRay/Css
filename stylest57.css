@@ -1,0 +1,11 @@
+#task1 ol{
+    list-style-type: lower-alpha;
+}
+
+#task2 ol{
+    list-style-type: lower-greek;
+}
+
+#task3 ol{
+    list-style-type: upper-alpha;
+}

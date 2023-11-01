@@ -1,0 +1,23 @@
+h1 {
+    font: 15px "Calibri";
+    text-decoration: overline;
+    color: red;   
+}  
+h2{
+    font-size: 13.5px;
+    text-decoration: line-through;
+    color: green;
+    font-family: "Calibri";
+}
+h3 {
+    font-size: 13.5px;
+    text-decoration: underline;
+    font-family: Arial;
+}
+p {
+    font: 13.5px "Calibri" ;
+}
+a {
+    color:red;
+    text-decoration: none;
+}

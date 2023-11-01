@@ -1,0 +1,6 @@
+p:nth-last-of-type(even){
+    color: blueviolet;
+}
+p:nth-of-type(odd){
+    color: blue;
+}

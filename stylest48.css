@@ -1,0 +1,14 @@
+#elem {
+    background-color: #7e89eb;
+    width: 200px;
+	height: 200px;
+}
+
+#task {
+    background-color: #4dee99;
+    width: 300px;
+	height: 200px;
+    text-align: center;
+    color:white;
+    font-size: 30px;
+}

@@ -1,0 +1,3 @@
+li:not(li.elem){
+    color:blueviolet
+}

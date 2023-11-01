@@ -1,0 +1,30 @@
+#elem{
+    width: 300px;
+    height: 200px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: blue;
+}
+
+#task2{
+    width: 300px;
+    height: 200px;
+    border-width: 5px;
+    border-style: dotted;
+    border-color: red;
+}
+
+#task3{
+    width: 300px;
+    height: 200px;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: orange;
+}
+#task4{
+    width: 300px;
+    height: 200px;
+    border-width: 10px;
+    border-style: double;
+    border-color: blue;
+}

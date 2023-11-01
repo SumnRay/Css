@@ -1,0 +1,25 @@
+p {
+	color: orange;
+}
+h1 {
+	color: green;
+}
+h2 {
+	color: blue;
+}
+h3 {
+	color: red;
+}
+a {
+    color: #cd0074
+}
+i {
+    color: rgb(124, 35, 35)
+}
+p{
+    width: 300px;
+}
+td{
+    width: 400px;
+    height: 300px;
+}
